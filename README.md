@@ -8,7 +8,7 @@
 - Shadcn
 
 ## Requisitos
-Tener node
+Tener node.
 
 ## Como correr
 ```bash
